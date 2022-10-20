@@ -1,14 +1,7 @@
-.App {
-  text-align: center;
-  font-size: 64px;
-  font-family: fantasy;
+.App{
+   background-color: #111;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+*{
+   margin: 0;
 }
